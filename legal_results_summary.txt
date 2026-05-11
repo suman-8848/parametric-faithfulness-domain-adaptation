@@ -1,0 +1,15 @@
+============================================================
+Legal Domain Faithfulness Results Summary
+============================================================
+
+Mistral-7B: 240 instances
+Saul-7B: 73 instances
+
+FF-HARD (All):
+  Mistral: 21.25%
+  Saul: 8.22%
+
+Efficacy:
+  Mistral: 39.87%
+  Saul: 28.47%
+

@@ -1,0 +1,169 @@
+% BIG-bench collaboration
+@misc{bigbench-2022-sports,
+  title = "Sports Understanding",
+  author = "BIG-bench collaboration",
+  year = "2022",
+  howpublished = "BIG-bench benchmark task",
+  note = "Physical plausibility and sports-related reasoning; part of {BIG}-bench.",
+}
+
+% ARC-Challenge
+@article{clark-etal-2018-think,
+  title = "Think you have Solved Question Answering? Try {ARC}, the {AI2} Reasoning Challenge",
+  author = "Clark, Peter and Cowhey, Isaac and Etzioni, Oren and Khot, Tushar and Sabharwal, Ashish and Schoenick, Carissa and Tafjord, Oyvind",
+  journal = "arXiv preprint arXiv:1803.05457",
+  year = "2018",
+  url = "https://arxiv.org/abs/1803.05457",
+}
+
+% StrategyQA
+@inproceedings{geva-etal-2021-did,
+  title = "Did {Aristotle} Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies",
+  author = "Geva, Mor and Wolfson, Tomer and Berant, Jonathan",
+  booktitle = "Transactions of the Association for Computational Linguistics",
+  volume = "9",
+  year = "2021",
+  pages = "346--360",
+  url = "https://aclanthology.org/2021.tacl-1.21/",
+}
+
+% Faithfulness definition
+@inproceedings{jacovi-goldberg-2020-towards,
+  title = "Towards Faithfully Interpretable {NLP} Systems: How Should We Define and Evaluate Faithfulness?",
+  author = "Jacovi, Alon and Goldberg, Yoav",
+  booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+  year = "2020",
+  address = "Online",
+  publisher = "Association for Computational Linguistics",
+  url = "https://aclanthology.org/2020.acl-main.386/",
+  pages = "4198--4205",
+}
+
+% MedQA
+@article{jin-etal-2019-disease,
+  title = "What Disease does this Patient Have? A Large-scale Open Domain Question Answering Dataset from Medical Exams",
+  author = "Jin, Di and Pan, Eileen and Oufattole, Nassim and Weng, Wei-Hung and Fang, Hanyi and Szolovits, Peter",
+  journal = "arXiv preprint arXiv:2009.13081",
+  year = "2020",
+  url = "https://arxiv.org/abs/2009.13081",
+}
+
+% BioMistral
+@inproceedings{labrak-etal-2024-biomistral,
+  title = "{BioMistral}: A Collection of Open-Source Pretrained Large Language Models for Medical Domains",
+  author = "Labrak, Yanis and Bazoge, Adrien and Morin, Emmanuel and Gourraud, Pierre-Antoine and Rouvier, Mickael and Dufour, Richard",
+  booktitle = "Findings of the Association for Computational Linguistics: {ACL} 2024",
+  year = "2024",
+  address = "Bangkok, Thailand",
+  publisher = "Association for Computational Linguistics",
+  url = "https://arxiv.org/abs/2402.10373",
+}
+
+% Contextual faithfulness
+@article{lanham-etal-2023-measuring,
+  title = "Measuring Faithfulness in Chain-of-Thought Reasoning",
+  author = "Lanham, Tamera and Chen, Anna and Radhakrishnan, Ansh and Steiner, Benoit and Denison, Carson and Hernandez, Danny and Hoffman, Jacob and Olsson, Catherine and Mu, Jesse",
+  journal = "arXiv preprint arXiv:2307.13702",
+  year = "2023",
+  url = "https://arxiv.org/abs/2307.13702",
+}
+
+% TruthfulQA
+@inproceedings{truthfulqa,
+  title = "Truthful{QA}: Measuring How Models Mimic Human Falsehoods",
+  author = "Lin, Stephanie and Hilton, Jacob and Evans, Owain",
+  booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  year = "2022",
+  address = "Dublin, Ireland",
+  publisher = "Association for Computational Linguistics",
+  url = "https://aclanthology.org/2022.acl-long.229/",
+  pages = "3214--3252",
+}
+
+% Faithfulness survey
+@article{lyu-etal-2024-towards,
+  title = "Towards Faithful Model Explanation in {NLP}: A Survey",
+  author = "Lyu, Qing and Apidianaki, Marianna and Callison-Burch, Chris",
+  journal = "Computational Linguistics",
+  volume = "50",
+  number = "2",
+  year = "2024",
+  pages = "657--723",
+  url = "https://aclanthology.org/2024.cl-2.6/",
+}
+
+% Machine unlearning
+@article{maini-2024-machine,
+  title = "Machine Unlearning: A Survey",
+  author = "Maini, Pratyush and Feng, Shehzeen and Schwarzschild, Avi and Liang, Chong and others",
+  journal = "ACM Computing Surveys",
+  year = "2024",
+  note = "Survey on machine unlearning methods.",
+}
+
+% OpenBookQA
+@inproceedings{mihaylov-etal-2018-can,
+  title = "Can a Suit of Armor Conduct Electricity? A New Dataset for Open Book Question Answering",
+  author = "Mihaylov, Todor and Clark, Peter and Khot, Tushar and Sabharwal, Ashish",
+  booktitle = "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing",
+  year = "2018",
+  address = "Brussels, Belgium",
+  publisher = "Association for Computational Linguistics",
+  url = "https://aclanthology.org/D18-1260/",
+  pages = "2381--2391",
+}
+
+% BIG-bench
+@article{srivastava-etal-2022-beyond,
+  title = "Beyond the Imitation Game: Quantifying and Extrapolating the Capabilities of Language Models",
+  author = "Srivastava, Aarohi and Rastogi, Abhinav and Rao, Abhishek and others",
+  journal = "arXiv preprint arXiv:2206.04615",
+  year = "2022",
+  url = "https://arxiv.org/abs/2206.04615",
+  note = "{BIG}-bench benchmark; Sports Understanding is one of 204 tasks.",
+}
+
+% Unfaithful CoT
+@inproceedings{turpin-etal-2023-language,
+  title = "Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting",
+  author = "Turpin, Miles and Michael, Julian and Perez, Ethan and Bowman, Samuel R.",
+  booktitle = "Advances in Neural Information Processing Systems",
+  volume = "36",
+  year = "2023",
+  publisher = "Curran Associates, Inc.",
+  url = "https://arxiv.org/abs/2305.04388",
+}
+
+% Main paper (FUR)
+@inproceedings{tutek-etal-2025-measuring,
+  title = "Measuring Chain of Thought Faithfulness by Unlearning Reasoning Steps",
+  author = "Tutek, Martin and Hashemi Chaleshtori, Fateme and Marasovic, Ana and Belinkov, Yonatan",
+  booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+  month = nov,
+  year = "2025",
+  address = "Suzhou, China",
+  publisher = "Association for Computational Linguistics",
+  url = "https://aclanthology.org/2025.emnlp-main.504/",
+  doi = "10.18653/v1/2025.emnlp-main.504",
+  pages = "9935--9960",
+}
+
+% Chain-of-Thought
+@inproceedings{wei-etal-2022-chain,
+  title = "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+  author = "Wei, Jason and Wang, Xuezhi and Schuurmans, Dale and Bosma, Maarten and Ichter, Brian and Xia, Fei and Chi, Ed and Le, Quoc and Zhou, Denny",
+  booktitle = "Advances in Neural Information Processing Systems",
+  volume = "35",
+  year = "2022",
+  publisher = "Curran Associates, Inc.",
+  url = "https://arxiv.org/abs/2201.11903",
+}
+
+% Negative Preference Optimization (NPO)
+@inproceedings{zhang-etal-2024-negative,
+  title = "Negative Preference Optimization: From Catastrophic Collapse to Effective Unlearning",
+  author = "Zhang, Ruiqi and Lin, Licong and Bai, Yu and Mei, Song",
+  booktitle = "Proceedings of the 2nd Conference on Language Modeling",
+  year = "2024",
+  url = "https://arxiv.org/abs/2404.05868",
+}
