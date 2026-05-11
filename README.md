@@ -2,12 +2,6 @@
 
 Final project for NLP course, Spring 2026
 
-## Team
-- Madhavan Balaji
-- Suman Lamsal
-- Samuditha Wijayasundara
-
-Indiana University Indianapolis
 
 ## What is this?
 
@@ -42,4 +36,3 @@ Run the notebooks. Models download automatically from HuggingFace.
 
 Built on the FUR methodology from [Tutek et al. (2025)](https://github.com/technion-cs-nlp/parametric-faithfulness)
 
-Compute: Indiana University Big Red 200
