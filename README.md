@@ -22,7 +22,8 @@ Domain adaptation doesn't make reasoning less faithful, but it does make it hard
 - `parametric_faithfulness_medical_extension.ipynb` - MedQA experiments
 - `parametric_faithfulness_legal_extension.ipynb` - LegalBench experiments  
 - `scripts/` - Shell scripts for running on compute clusters
-- `Association_for_Computational_Linguistics__ACL__conference/Team_3_NLP_Final_Project_Report.pdf` - Full report
+- `report/Team_3_NLP_Final_Project_Report.pdf` - Full report
+- `results/` - Experimental results and visualizations
 
 ## Results
 
